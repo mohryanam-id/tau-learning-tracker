@@ -171,3 +171,12 @@ Test Automation University Certifications/
 │
 └── ...
 ```
+
+
+Each automation technique has its own folder, and within each automation folder, there are subfolders for each programming language. Within each programming language subfolder, there are subfolders for each certification. Each certification folder contains a README file that provides an overview of the certification, the courses and assignments required to obtain it, and my progress. The subfolders within each certification folder are organized by topic and contain the notes, code samples, and other resources for that topic.
+
+This structure allows for easy navigation and organization of resources, and makes it easy to track progress for each certification and automation technique.
+
+## Conclusion
+
+This repository will serve as a resource for anyone interested in learning test automation skills through Test Automation University. It will be updated regularly with my progress and insights, as well as any new learnings I acquire along the way. I hope that this repository will be helpful for anyone who is also pursuing these certifications or learning test automation in general.
