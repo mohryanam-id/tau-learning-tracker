@@ -1,10 +1,23 @@
 # Test Automation University Certifications Learning Process
 
-This repository is a documentation of my learning process to obtain certifications in Test Automation University Powered By AppliTools. The purpose of this repository is to keep track of my progress, share my learnings, and provide a resource for anyone else who may be interested in pursuing these certifications.
-
 ## Table of Contents
 
-[TOC]
+<!-- TOC -->
+
+- [Test Automation University Certifications Learning Process](#test-automation-university-certifications-learning-process)
+  - [Table of Contents](#table-of-contents)
+  - [About Test Automation University](#about-test-automation-university)
+  - [My Learning Process](#my-learning-process)
+  - [What is notes.md](#what-is-notesmd)
+  - [Certifications](#certifications)
+  - [Repository Structure](#repository-structure)
+    - [What is the content on README.md file under each sub directory](#what-is-the-content-on-readmemd-file-under-each-sub-directory)
+    - [What is notes.md ?](#what-is-notesmd-)
+  - [Conclusion](#conclusion)
+
+<!-- /TOC -->
+
+This repository is a documentation of my learning process to obtain certifications in Test Automation University Powered By AppliTools. The purpose of this repository is to keep track of my progress, share my learnings, and provide a resource for anyone else who may be interested in pursuing these certifications.
 
 ## About Test Automation University
 
