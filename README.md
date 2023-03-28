@@ -33,8 +33,6 @@ To obtain the certifications, I am following a structured learning process that 
 
 I will be documenting my progress throughout this process and sharing my insights, learnings, and tips on this repository. I will be using multiple programming languages, including Python, Java, and C#, to complete the coursework and assignments. In addition, I will be using multiple automation techniques, including API, Web, Mobile, Codeless, and Visual automation, to learn how to automate different types of applications.
 
-## What is notes.md
-
 ## Certifications
 
 - API Automation
