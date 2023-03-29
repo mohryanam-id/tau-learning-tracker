@@ -1,21 +1,16 @@
 # Test Automation University Certifications Learning Process
 
-## Table of Contents
-
-<!-- TOC -->
+## Table of contents
 
 - [Test Automation University Certifications Learning Process](#test-automation-university-certifications-learning-process)
-  - [Table of Contents](#table-of-contents)
+  - [Table of contents](#table-of-contents)
   - [About Test Automation University](#about-test-automation-university)
   - [My Learning Process](#my-learning-process)
-  - [What is notes.md](#what-is-notesmd)
   - [Certifications](#certifications)
   - [Repository Structure](#repository-structure)
-    - [What is the content on README.md file under each sub directory](#what-is-the-content-on-readmemd-file-under-each-sub-directory)
-    - [What is notes.md ?](#what-is-notesmd-)
+    - [README.md file under each sub directory](#readmemd-file-under-each-sub-directory)
+    - [notes.md](#notesmd)
   - [Conclusion](#conclusion)
-
-<!-- /TOC -->
 
 This repository is a documentation of my learning process to obtain certifications in Test Automation University Powered By AppliTools. The purpose of this repository is to keep track of my progress, share my learnings, and provide a resource for anyone else who may be interested in pursuing these certifications.
 
@@ -198,7 +193,7 @@ Each automation technique has its own folder, and within each automation folder,
 
 This structure allows for easy navigation and organization of resources, and makes it easy to track progress for each certification and automation technique.
 
-### What is the content on README.md file under each sub directory
+### README.md file under each sub directory
 
 provide an overview of the certification and its associated course material, as well as any relevant information for working through the course and completing the certification. Here are some elements that could be included in the README.md file:
 
@@ -220,7 +215,7 @@ provide an overview of the certification and its associated course material, as 
 
 Overall, the README.md file should serve as a helpful guide for students who are working through the certification, providing them with the information they need to successfully complete the course and earn the certification.
 
-### What is notes.md ?
+### notes.md
 
 The content of a notes.md file can vary depending on the specific project or certification being pursued, but generally it should include any notes or documentation related to the certification or course material. This could include:
 
