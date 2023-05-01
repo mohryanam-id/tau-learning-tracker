@@ -8,6 +8,34 @@
 - Creating a new Python project
 - Writing the first test case
 
+### Chapter 2
+
+- Failing test case on Assertion
+- Reporting information (code snippets, symbol, etc)
+- Exception in Pytest test result
+
+### Chapter 3
+
+- What is pytest.raises?
+- Why is pytest.raises?
+- How to use pytest.raises?
+
+### Chapter 4
+
+- Align DRY principle using parameterized test cases
+- I/O on test cases using parametrized
+- How to use the parametrized
+
+### Chapter 5
+- define python class
+- pytest for testing class
+- Arrange-Act-Assert pattern
+
+### Chapter 6
+- fixture usage
+- advanced fixture feature
+- pytest built-in fixtures
+
 ## Tips and tricks
 
 1. Properly installing Python can be complicated, especially if Python was previously installed on your machine. Make sure to follow appropriate instructions for your operating system and verify your installation with the command python --version (or python3 --version if needed).
